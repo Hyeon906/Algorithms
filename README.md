@@ -1,1 +1,5 @@
-# Algorithms
+## 알고리즘
+- 알고리즘 공부
+
+## 백엔드(backend)
+- 자바(java) 공부
